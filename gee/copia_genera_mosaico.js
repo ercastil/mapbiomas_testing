@@ -1,4 +1,4 @@
-//holaa ekipoo C: version 2 - allows to process mosaic without fill gaps with all images in the year
+//holaa ekipoo C: version 2 - allows to process mosaic without fill gaps with all images in the year holaaaaaa!!
 var fill_NO_DATA_with_year_mosaic = false; // true ou false to fill NO DATA with year info
 xixi gang
   var grids = ["SF-19-Z-A"]; //
