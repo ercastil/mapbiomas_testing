@@ -1,6 +1,6 @@
 //version 2 - allows to process mosaic without fill gaps with all images in the year
 var fill_NO_DATA_with_year_mosaic = false; // true ou false to fill NO DATA with year info
-xixigang CARLOS
+
   var grids = ["SF-19-Z-A"]; //
   var dir_out = 'projects/mapbiomas-chile/assets/MOSAICS/';
 
