@@ -4,7 +4,7 @@ var fill_NO_DATA_with_year_mosaic = false; // true ou false to fill NO DATA with
   var grids = ["SF-19-Z-A"]; //
   var dir_out = 'projects/mapbiomas-chile/assets/MOSAICS/';
 
-
+HOLA :P FELIPE LEPIN 
 var blackList = [
     'LT05_126061_20040812', //example
     ];
