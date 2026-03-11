@@ -7,6 +7,7 @@ var fill_NO_DATA_with_year_mosaic = false; // true ou false to fill NO DATA with
 
 var blackList = [
     'LT05_126061_20040812', //example
+	'LT05_126061_20040705', // nueva imagen en lista negra
     ];
     
 
